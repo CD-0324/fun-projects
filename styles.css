@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(252, 216, 228);
+    height: 700px;
+}
+
+.homenav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.homelinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(177, 75, 224, 0.801);
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
